@@ -1,34 +1,26 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Web Design and Development"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Digital Marketing"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "SEO"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Graphic Design"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Apps Development"
     },
     {
       "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
+      "name": "Wordpress"
     }
   ]
