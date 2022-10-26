@@ -28,4 +28,6 @@ app.get('/news/:id', (req, res) => {
     res.send(selectedNews);
 });
 
-
+app.listen(port, () => {
+    console.log('Abrar Learning School Server running on port', port);
+})
