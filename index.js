@@ -28,6 +28,4 @@ app.get('/news/:id', (req, res) => {
     res.send(selectedNews);
 });
 
-app.listen(port, () => {
-    console.log('Dragon News Server running on port', port);
-})
+
