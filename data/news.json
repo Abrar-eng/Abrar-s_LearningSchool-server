@@ -1,70 +1,68 @@
 [
-    {
-      "_id": "01",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "01",
-      "title": "Web Design And Development",
-      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
-      "details": "Web design and development is an umbrella term that describes the process of creating a website. Like the name suggests, it involves two major skill sets: web design and web development. Web design determines the look and feel of a website, while web development determines how it functions."
+  {
+    "_id": "01",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-    {
-      "_id": "02",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "02",
-      "title": "Digital Marketing",
-      "image_url": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
-      "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.The term digital marketing refers to the use of digital channels to market products and services in order to reach consumers."
+    "category_id": "01",
+    "title": "Web Design And Development",
+    "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+    "details": "Web design and development is an umbrella term that describes the process of creating a website. Like the name suggests, it involves two major skill sets: web design and web development. Web design determines the look and feel of a website, while web development determines how it functions. You can Enroll your cousre From Here-"
+  },
+  {
+    "_id": "02",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-
-    {
-      "_id": "03",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "03",
-      "title": "Search Engine Optimization (SEO)",
-      "image_url": "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-      "details": "Search engine optimization (SEO) is a set of practices designed to improve the appearance and positioning of web pages in organic search results. It is the practice of getting targeted traffic to a website from a search engine's organic rankings.SEO is the process of taking steps to help a website or piece of content rank higher on Google."
+    "category_id": "02",
+    "title": "Digital Marketing",
+    "image_url": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+    "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.The term digital marketing refers to the use of digital channels to market products and services in order to reach consumers. You can Enroll your cousre From Here-"
+  },
+  {
+    "_id": "03",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-    {
-      "_id": "04",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "04",
-      "title": "Graphic Design",
-      "image_url": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
-      "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts.Graphic design is the creation of visual compositions to solve problems and communicate ideas through typography, imagery, color and form."
+    "category_id": "03",
+    "title": "Search Engine Optimization (SEO)",
+    "image_url": "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "details": "Search engine optimization (SEO) is a set of practices designed to improve the appearance and positioning of web pages in organic search results. It is the practice of getting targeted traffic to a website from a search engine's organic rankings.SEO is the process of taking steps to help a website or piece of content rank higher on Google. You can Enroll your cousre From Here-"
+  },
+  {
+    "_id": "04",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
     },
-
-    {
-      "_id": "05",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "05",
-      "title": "Mobile Apps Development",
-      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. It is the process used to create software for smartphones, tablets, and mobile devices."
+    "category_id": "04",
+    "title": "Graphic Design",
+    "image_url": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts.Graphic design is the creation of visual compositions to solve problems and communicate ideas through typography, imagery, color and form.You can Enroll your cousre From Here-"
+  },
+  {
+    "_id": "05",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
     },
-    {
-      "_id": "06",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "06",
-      "title": "Wordpress",
-      "image_url": "https://images.unsplash.com/photo-1616469832301-ffaeadc68cf3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "details": "WordPress (WP or WordPress.org) is a free and open-source content management system (CMS) written in hypertext preprocessor language[4] and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as Themes. WordPress was originally created as a blog-publishing system but has evolved to support other web content types including more traditional mailing lists and Internet fora, media galleries, membership sites, learning management systems (LMS) and online stores."
-    }
-  ]
+    "category_id": "05",
+    "title": "Mobile Apps Development",
+    "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. It is the process used to create software for smartphones, tablets, and mobile devices.You can Enroll your cousre From Here-"
+  },
+  {
+    "_id": "06",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "06",
+    "title": "Wordpress",
+    "image_url": "https://images.unsplash.com/photo-1616469832301-ffaeadc68cf3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "details": "WordPress (WP or WordPress.org) is a free and open-source content management system (CMS) written in hypertext preprocessor language[4] and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as Themes. WordPress was originally created as a blog-publishing system but has evolved to support other web content types including more traditional mailing lists and Internet fora, media galleries, membership sites, learning management systems (LMS) and online stores.You can Enroll your cousre From Here-"
+  }
+]
